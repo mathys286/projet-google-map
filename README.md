@@ -15,4 +15,4 @@ CREATE TABLE commentaires (
     statut VARCHAR(50)
 );
 
-Pour voir le site : https://http://localhost/index.php
+Pour voir le site : http://localhost/index.php
